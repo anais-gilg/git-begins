@@ -1,7 +1,7 @@
 git commit 
 git push
 git pull
-git branch (pour voir la liste des branchs)
+git branch (pour voir la liste des branches)
 git branch + le nom de la nouvelle branche
 git log + --decorate (pour voir vers quoi les branchs pointes)
 git checkout + le nom de la nouvelle branch
